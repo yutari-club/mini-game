@@ -1,6 +1,8 @@
 # makecode
 
 https://minecraft.makecode.com/?lang=ja#
+https://makecode.com/_LFt1Em1urdoE
+
 
 # チュートリアルの設定方法
 codebuilder navigate @p false https://minecraft.makecode.com/?ipc=1&inGame=1#tutorial:github:yutari-club/mini-game/BreaktheTerracotta
